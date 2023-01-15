@@ -4,6 +4,6 @@ public class Main {
     public static void main(String[] args) {
         RWOnly obj=new RWOnly();
         obj.setName("Aman");
-        obj.getName()
+        obj.getName();
     }
 }
